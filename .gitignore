@@ -1,3 +1,4 @@
 .*.swp
 plugins
 platforms
+node_modules/

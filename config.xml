@@ -9,4 +9,11 @@
     </author>
     <content src="index.html" />
     <plugin name="cordova-plugin-dialogs" spec="^2.0.1" />
+    <branch-config>
+        <branch-key value="key_live_aaaaaaaaaaaaaaaaaaaaa" />
+        <uri-scheme value="myapp" />
+        <link-domain value="my.app.link" />
+        <ios-team-release value="1234567" />
+        <ios-team-debug value="1234567" />
+    </branch-config>
 </widget>
