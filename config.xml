@@ -16,4 +16,5 @@
         <ios-team-release value="1234567" />
         <ios-team-debug value="1234567" />
     </branch-config>
+    <plugin name="branch-cordova-sdk" spec="https://github.com/brodybits/branch-cordova-sdk#explicit-xcode-depfix" />
 </widget>
